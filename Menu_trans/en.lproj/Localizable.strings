@@ -1,0 +1,119 @@
+// App Title
+"app_title" = "Menu Explainer";
+"home" = "Home";
+
+// ContentView
+"scan_menu_title" = "Scan the Menu";
+"scan_menu_subtitle" = "Instantly reveal the secrets of delicious food";
+"start_scanning" = "Start Scanning";
+"manual_search_prompt" = "Or search by dish name";
+"ai_chef_analyzing" = "AI Chef is analyzing the menu...";
+"manual_input_title" = "Manual Input";
+"enter_dish_name" = "Enter dish name...";
+"cancel" = "Cancel";
+"search" = "Search";
+"error" = "Error";
+"ok" = "OK";
+
+// HistoryView
+"search_history" = "Search History";
+"no_search_history" = "No Search History";
+"search_history_description" = "Your search records will appear here";
+"close" = "Close";
+"clear" = "Clear";
+"favorite" = "Favorite";
+"delete" = "Delete";
+
+// CollectionsView
+"collections" = "Collections";
+"no_collections" = "No Collections";
+"collections_description" = "Create your first collection to start collecting delicious food";
+"create_collection" = "Create Collection";
+"create_new_collection" = "Create New Collection";
+"collection_info" = "Collection Info";
+"collection_name" = "Collection Name";
+"description_optional" = "Description (Optional)";
+"dishes_count" = "%d Dishes";
+"created_on" = "Created on %@";
+"add_to_collection" = "Add to Collection";
+"please_create_collection" = "Please create a collection first";
+"select_collection" = "Select Collection";
+"no_dishes_in_collection" = "No dishes in this collection";
+"add_dishes_to_collection" = "Add dishes to this collection to see them here";
+
+// ResultsView
+"select_dishes" = "Select Dishes";
+"selection_complete" = "Selection Complete!";
+"selected_dishes_count" = "You have selected %d dishes";
+"view_order" = "View Order";
+"back_home" = "Back Home";
+"back" = "Back";
+
+// OrderListView
+"hello_we_want" = "Hello, we would like to order:";
+"total_dishes_selected" = "Total %d dishes selected";
+"ingredients" = "Ingredients: %@";
+"thank_you" = "Thank you!";
+"please_wait" = "Please wait a moment, we will prepare your order as soon as possible";
+"order_list" = "Order List";
+
+// DishCardView (if exists)
+"add_to_order" = "Add to Order";
+"skip" = "Skip";
+"ingredients_label" = "Ingredients";
+"flavor_profile" = "Flavor Profile";
+
+// Search Types
+"image_scan" = "Image Scan";
+"manual_input" = "Manual Input";
+
+// Swipe Actions
+"like" = "LIKE";
+"nope" = "NOPE";
+
+// Quantity
+"quantity_one" = "1";
+"decrease" = "-";
+"increase" = "+";
+"create" = "Create";
+
+// HistoryView
+"scan_history" = "Scan History";
+"order_history" = "Order History";
+"no_scan_history" = "No Scan History";
+"no_order_history" = "No Order History";
+"scan_history_description" = "Your dish recognition records will appear here";
+"order_history_description" = "Your order records will appear here";
+"dishes_count_format" = "%d Dishes";
+"clear_all" = "Clear All";
+"history_title" = "History Records";
+
+// CollectionsView
+"rename" = "Rename";
+"delete" = "Delete";
+"confirm_delete" = "Confirm Delete";
+"delete_collection_message" = "Are you sure you want to delete this collection?";
+"edit" = "Edit";
+"done" = "Done";
+"enter_new_name" = "Enter new name for the collection";
+
+// OrderListView
+"order_complete" = "Order Complete";
+"order_saved" = "Order Saved";
+"order_saved_message" = "Your order has been saved to history";
+"order_detail_title" = "Order Details";
+"total_dishes_summary" = "Total %d dishes";
+"complete_order_button" = "Complete Order";
+"alert_order_saved_title" = "Order Saved";
+"alert_order_saved_message" = "Your order has been successfully saved to your history.";
+"loading_text_1" = "Good food is worth the wait...";
+"loading_text_2" = "Waking up the AI chef...";
+"loading_text_3" = "Translating deliciousness...";
+"all_dishes_reviewed" = "All dishes reviewed!";
+"tap_list_to_see_order" = "Tap the list icon to see your order.";
+"review_skipped_dishes" = "Review Skipped Dishes";
+"no_skipped_dishes" = "No skipped dishes to review!";
+"all_dishes_processed" = "All dishes have been processed.";
+"add_to_order" = "+ Add to Order";
+"back_to_select" = "< Back to Select";
+"review_skipped" = "+ Review Skipped"; 
